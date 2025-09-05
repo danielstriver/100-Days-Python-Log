@@ -11,4 +11,4 @@
 
 ###**This program is inspired by the courage to help my nieces locked in Math Knowledge**
 
-###*NB: Check out the code in the InteractiveMultiplicationTable.py file. # Stay Hard!*
+###*NB: Check out the code in the InteractiveMultiplicationTable.py file. #Stay Hard!*
