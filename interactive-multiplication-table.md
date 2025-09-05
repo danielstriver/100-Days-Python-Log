@@ -1,6 +1,6 @@
 # Interactive Multiplication Table. 
 
-###*This is a program that  enables users to easily learn multiplication tables through interactive question and answer mode*
+### *This is a program that  enables users to easily learn multiplication tables through interactive question and answer mode*
 
 ## How it works
 
@@ -9,6 +9,6 @@
 - The program tells they user how many they got right at the end out 12.
 - The user gets an inspirational congrats message when they get all answers right.
 
-###**This program is inspired by the courage to help my nieces locked in Math Knowledge**
+### **This program is inspired by the courage to help my nieces locked in Math Knowledge**
 
-###*NB: Check out the code in the InteractiveMultiplicationTable.py file. #Stay Hard!*
+### *NB: Check out the code in the InteractiveMultiplicationTable.py file. # Stay Hard!*
